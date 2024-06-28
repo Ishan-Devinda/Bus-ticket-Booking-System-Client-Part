@@ -2,6 +2,8 @@
 
 The project was developed by stack Full stack website💻 developed with MERN stack, facilitating user-friendly reservation processes and seamless ticket management for efficient travel planning.
 
+![Screenshot (18)](https://github.com/Ishan-Devinda/Bus-ticket-Booking-System-Frontend-Part/assets/139706212/17992d1b-339d-482b-879d-7c150b1f6925)
+
 
 
 ## Features
