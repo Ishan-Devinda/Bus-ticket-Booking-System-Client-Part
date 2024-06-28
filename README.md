@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Bus Ticket Booking  System 
+
+#The project was developed by stack Full stack website💻 developed with MERN stack, facilitating user-friendly reservation processes and seamless ticket management for efficient travel planning.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
